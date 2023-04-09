@@ -5,8 +5,8 @@ The project uses the Salary_Data.csv file which contains two columns - YearsExpe
 ## Prerequisites
 To run this project, you need to have the following installed on your local machine:
 
--Python 3.x
--Pandas library
--NumPy library
--Matplotlib library
--sklearn library
+*Python 3.x
+*Pandas library
+*NumPy library
+*Matplotlib library
+*sklearn library
